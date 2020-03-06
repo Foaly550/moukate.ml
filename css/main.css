@@ -143,3 +143,10 @@ body {
     text-decoration: none !important;
     font-weight: bold !important;
 }
+.logo {
+    clip-path:ellipse(50% 50%);
+    width:200px;
+    height:200px;
+    -webkit-transition: all 0.5s ease;
+    transition: all 0.5s ease;
+ }
